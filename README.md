@@ -1,6 +1,6 @@
 # 
-```
-██████╗ ██╗   ██╗██████╗  █████╗ ███╗   ██╗ █████╗ 
+```ansi
+[38;2;231;133;80m██████╗ ██╗   ██╗██████╗  █████╗ ███╗   ██╗ █████╗ 
 ██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗████╗  ██║██╔══██╗
 ██████╔╝ ╚████╔╝ ██████╔╝███████║██╔██╗ ██║███████║
 ██╔═══╝   ╚██╔╝  ██╔══██╗██╔══██║██║╚██╗██║██╔══██║
@@ -12,7 +12,7 @@
 ███████╗██║     ███████║██║   ██║██║   ██║██║      
 ╚════██║██║     ██╔══██║██║   ██║██║   ██║██║      
 ███████║╚██████╗██║  ██║╚██████╔╝╚██████╔╝███████╗ 
-╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝ 
+╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝[0m
 ```
 
 > 🚀 **Welcome to Pyrana School** - Where we share the techstack, best practices, and collective wisdom of the Pyrana team with our fam and friends!
@@ -38,16 +38,16 @@ Custom slash commands, workflows, and productivity hacks for Claude Code. Level 
 - Team-specific configurations
 
 ### 🛠️ `/techstack` - Our Technology Stack
-Deep dives into the tools and technologies we use daily.
+🚧 **Coming Soon** - Deep dives into the tools and technologies we use daily.
 
 ### 📖 `/best-practices` - How We Build
-Our coding standards, design patterns, and architectural decisions.
+🚧 **Coming Soon** - Our coding standards, design patterns, and architectural decisions.
 
 ### 🎓 `/tutorials` - Learn With Us
-Step-by-step guides and tutorials on various topics.
+🚧 **Coming Soon** - Step-by-step guides and tutorials on various topics.
 
 ### 💡 `/tips-and-tricks` - Pro Tips
-Quick wins and productivity boosters from the team.
+🚧 **Coming Soon** - Quick wins and productivity boosters from the team.
 
 ## 🚀 Quick Start
 
