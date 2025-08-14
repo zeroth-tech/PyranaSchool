@@ -1,6 +1,11 @@
-### Special /Page command with subagents
+> **Paste this markdown into `.claude/commands/page.md` in your project repository and reopen Claude Code (`ctrl+c` to kill it and then `claude -r` to resume) for it to show up. Then you can just run it with `/page`.  
+>  
+> All credit to [@tokenbender](https://tokenbender.com/post.html?id=how-i-bring-the-best-out-of-claude-code-part-2) for the [original version](https://tokenbender.com/post.html?id=how-i-bring-the-best-out-of-claude-code-part-2); we modified it to have it run via subagents.
+>
 
-# Page - Session History Dump with Citations and Memory Management
+# Special /Page command with subagents
+
+## Page - Session History Dump with Citations and Memory Management
 Like OS paging for processes, this command saves the entire conversation state to disk by extracting it from Claude Code's local storage (`~/.claude/projects/`). After running this command, you can use `/compact` to free up Claude's context memory.
 
 ## Usage
